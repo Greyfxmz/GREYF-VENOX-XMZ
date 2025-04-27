@@ -11,16 +11,21 @@
  
  
 
-#### SETUP  FORK 🌟
 
+`FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-[`FORK`](https://github.com/Greyfxmz/GREYF-VENOX-XMZ/fork)
+  <a href="https://github.com/Greyfxmz/GREYF-VENOX-XMZ/fork"><img title="ALI-MD" src="https://img.shields.io/badge/FORK-GREYF%20XMZ-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
 
 
  
 
 
-[`PAIRING CODE`](https://rahmani-md-7xqe.onrender.com/)
+> **2. PAIR CODE SESSION ID**
+
+<a href='https://greyf-session-id.onrender.com' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br>
  
 
 #### DEPLOY TO HEROKU GREYF-VENOX-XMZ
