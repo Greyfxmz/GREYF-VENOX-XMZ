@@ -15,10 +15,6 @@
 
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/
-
-
-
 #### SETUP 
 
 - <a href="https://github.com/Greyfxmz/GREYF-VENOX-XMZ/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
