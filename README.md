@@ -43,8 +43,26 @@
 
 
 
-
-   ## 𝙶𝚁𝙴𝚈𝙵 𝚅𝙴𝙽𝙾𝚇 𝚇𝙼𝚉 𝙲𝙾𝙽𝚃𝙰𝙲𝚃
+## 𝙶𝚁𝙴𝚈𝙵 𝚅𝙴𝙽𝙾𝚇 𝚇𝙼𝚉 𝙲𝙾𝙽𝚃𝙰𝙲𝚃
   
 <a href="https://wa.me/+255765902829"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a href="https://whatsapp.com/channel/0029VbAhZ7u65yD6m34IHh0i"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+  <a href=""> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="14%"> </a>
+  <a href=""> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://github.com/Greyfxmz/GREYF-VENOX-XMZ"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a><a href="Njabulo "> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="13%"> </a>
+</p>
+
+
+   
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+
+
+
+<p align="center">
+    <a href="https://chat.whatsapp.com/CYmVY5v3SMCLMq25xHAMWE">
+        <img height="30" title="Support Group" src="https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    </a>
+</p>
+
