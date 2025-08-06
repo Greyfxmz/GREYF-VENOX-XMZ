@@ -1,5 +1,5 @@
 {
-  "name": "Popkid-md",
+  "name": "rahman-md",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "whatsapp-bot",
     "raheem-md-boy"
   ],
-  "author": "popkid",
+  "author": "rahmani",
 "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
