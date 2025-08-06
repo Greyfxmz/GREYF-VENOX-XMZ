@@ -1,9 +1,9 @@
 {
-  "name":"KING RAHMANI MD",
+  "name":"GREYF-VENOX-XMZ",
   "description":"Best whatsapp bot developed by Rahmani Md ",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/i4mkin.jpg",
-  "repository":"https://github.com/Qartde/Rahmani_Md",
+  "logo":"https://files.catbox.moe/mkho8e.jpg",
+  "repository":"https://github.com/Greyfxmz/GREYF-VENOX-XMZ",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -46,14 +46,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"RAHMANI MD",
+      "value":"GREYF",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/i4mkin.jpg",
+      "value":"https://files.catbox.moe/mkho8e.jpg",
       "required":false
        
      },
@@ -86,14 +86,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Rahmani"
+    "value": "GREYF"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255693629079"
+    "value": "255765902829"
   },
     "WARN_COUNT":
   {
@@ -114,7 +114,7 @@
  },
   "ANTIDELETE_MESSAGES" : {
     "description": "Deleted messages will be sent to your inbox, enter yes to enable else put no",
-    "value": "yes",
+    "value": "no",
         "required": false
   }
   },
