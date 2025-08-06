@@ -5,10 +5,10 @@
   "name": "GREYF-MD",
   "version": "2.0.0",
   "description": "WhatsApp Multi Device Bot",
-  "main": "ibrahim.js",
+  "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node ibrahim.js"
+    "start": "node index.js"
   },
   "keywords": [
     "termux",
@@ -20,7 +20,7 @@
     "bot-md",
     "whatsapp-multi-device"
   ],
-  "author": "LEONARD-MD",
+  "author": "RAHZAYN-MD",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
