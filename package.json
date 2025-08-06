@@ -361,10 +361,10 @@
   "name": "Rahzayn-md",
   "version": "2.0.0",
   "description": "",
-  "main": "ibrahim.js",
+  "main": "index.js",
   "scripts": {
     "test": "node ibrahim.js",
-    "s": "node ibrahim.js",
+    "s": "node index.js",
     "toshtech": "pm2 start ibrahim.js --attach",
     "toshtech": "pm2 start ibrahim.js --attach",
     "c": "tsc"
