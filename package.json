@@ -1,8 +1,8 @@
 {
-  "name": "rahman-md",
+  "name": "heroku-md",
   "version": "2.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "popkid.js",
   "scripts": {
     "test": "node index.js",
     "s": "node index.js",
@@ -18,7 +18,7 @@
     "whatsapp-bot",
     "raheem-md-boy"
   ],
-  "author": "rahmani",
+  "author": "heroku",
 "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
